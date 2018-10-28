@@ -1,5 +1,6 @@
 # doc2vec
 使用gensim库训练doc2vec模型
+
 （1）下载wiki英文数据压缩包：https://dumps.wikimedia.org/enwiki/latest/
 
 （2）在cmd下切换到这个压缩包文件存放的目录下，运行命令：
